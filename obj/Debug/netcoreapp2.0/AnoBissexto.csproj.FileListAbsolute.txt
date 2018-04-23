@@ -1,0 +1,10 @@
+C:\Users\Carlos Henrique\AnoBissexto\bin\Debug\netcoreapp2.0\AnoBissexto.deps.json
+C:\Users\Carlos Henrique\AnoBissexto\bin\Debug\netcoreapp2.0\AnoBissexto.runtimeconfig.json
+C:\Users\Carlos Henrique\AnoBissexto\bin\Debug\netcoreapp2.0\AnoBissexto.runtimeconfig.dev.json
+C:\Users\Carlos Henrique\AnoBissexto\bin\Debug\netcoreapp2.0\AnoBissexto.dll
+C:\Users\Carlos Henrique\AnoBissexto\bin\Debug\netcoreapp2.0\AnoBissexto.pdb
+C:\Users\Carlos Henrique\AnoBissexto\obj\Debug\netcoreapp2.0\AnoBissexto.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Henrique\AnoBissexto\obj\Debug\netcoreapp2.0\AnoBissexto.AssemblyInfoInputs.cache
+C:\Users\Carlos Henrique\AnoBissexto\obj\Debug\netcoreapp2.0\AnoBissexto.AssemblyInfo.cs
+C:\Users\Carlos Henrique\AnoBissexto\obj\Debug\netcoreapp2.0\AnoBissexto.dll
+C:\Users\Carlos Henrique\AnoBissexto\obj\Debug\netcoreapp2.0\AnoBissexto.pdb
